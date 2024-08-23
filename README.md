@@ -9,7 +9,7 @@
   Estudante de Bacharelado em Ciência da Computação, IFC - Campus Rio do Sul.  
   E-mail: pdanieldeoliveirahoeller@gmail.com
 
-- **Marcela Leite**  
+- **Rodrigo Curvello**  
   Orientador, Professor Rodrigo Curvello EBTT, IFC - Campus Rio do Sul.  
   E-mail: rodrigo.curvello@ifc.edu.br
 
